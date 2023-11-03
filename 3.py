@@ -1,0 +1,8 @@
+name=input("enter name")
+course=input("enter course")
+dob=int(input("enter dob"))
+rollno=int(input("enter roll no"))
+print(name)
+print(course)
+print(dob)
+print(rollno)

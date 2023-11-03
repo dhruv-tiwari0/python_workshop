@@ -1,0 +1,5 @@
+"__init__"=is a special method used to intialize the object.
+"self" is a reference to the current instance of a class.
+"classes" in python are likely blueprints for creating objects, the encapsulate data or behaviour.
+"encapsulation" is a concept that restrict the access to a certain thought of an object.
+"inheritance" allows you too craete a new classes that inherit properties and methods from existing classes.
